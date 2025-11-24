@@ -12,6 +12,6 @@ The project can be extended with GUI support.
 Future enhancements may include mobile app integration.
 The code is fully customizable for personal use.
 This project is ideal for learning API handling, JSON parsing, and automation.
-A great mini-project for students and beginners.
+
 
 
